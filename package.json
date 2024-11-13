@@ -1,7 +1,7 @@
 {
-  "name": "event-management-backend",
+  "name": "Todo Web Application",
   "version": "1.0.0",
-  "description": "Backend for Event Management Application",
+  "description": "Todo Web Application",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
